@@ -1,0 +1,155 @@
+.b-content
+{
+    margin: 0 auto -40px;
+    width:960px;
+    position: relative;
+    min-height:100%;
+    height:auto !important;
+    height:100%;
+    z-index:0;
+}
+.b-content__footer{
+    height: 60px;
+    clear:both;
+}
+.b-content__header{
+    height: 30px;
+    padding: 10px 20px;
+    background: #dddddd;
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee', endColorstr='#cccccc');
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#cccccc));
+        background: -webkit-linear-gradient(top, bottom, #eeeeee, #cccccc);
+        background: -moz-linear-gradient(top,  #eeeeee,  #cccccc);
+        background: -o-linear-gradient(top,  #eeeeee,  #cccccc);
+        background: -ms-linear-gradient(top,  #eeeeee,  #cccccc);
+        background: linear-gradient(top, #eeeeee, #cccccc);
+    box-shadow: inset 0 1px 7px rgba(0,0,0,0.3), 1px 1px 7px rgba(0,0,0,0.4);
+    -webkit-border-radius: 0 0 15px 15px;
+       -moz-border-radius: 0 0 15px 15px;
+         -o-border-radius: 0 0 15px 15px;
+            border-radius: 0 0 15px 15px;
+}
+.b-content__link{
+    height:auto;
+    text-decoration: none;
+    margin-left:50px;
+}
+.b-content__main
+{
+    padding: 30px 0 30px 15px;
+    cursor: pointer;
+}
+.b-content__card
+{
+    background: url(../../images/shirt.png) no-repeat;
+    width:120px;
+    height: 186px;
+    margin: 0 15px 60px 0;
+    -webkit-border-radius: 7px;
+       -moz-border-radius: 7px;
+         -o-border-radius: 7px;
+            border-radius: 7px;
+}
+.b-content__card_state_war{
+    position:relative;
+}
+.b-content__card_state_war:before{
+    content: '';
+    position:absolute;
+    z-index:0;
+    top: 30px;
+    left:0;
+    right:0;
+    background: url(../../images/shirt.png) no-repeat;
+    height: 186px;
+    margin: 0;
+    -webkit-border-radius: 7px;
+       -moz-border-radius: 7px;
+         -o-border-radius: 7px;
+            border-radius: 7px;
+}
+.b-content__war{
+    position:absolute;
+    background: url(../../images/shirt.png) no-repeat;
+    width:120px;
+    height: 186px;
+    -webkit-border-radius: 7px;
+       -moz-border-radius: 7px;
+         -o-border-radius: 7px;
+            border-radius: 7px;
+    z-index:1;
+    top: 50px;
+    margin: 0;
+}
+.b-content__card_state_disabled,
+.b-content__war_state_disabled{
+    background-position: center bottom;
+}
+.b-content__card_suit_clubs,
+.b-content__war_suit_clubs{
+    background: url(../../images/clubs.png) no-repeat;
+}
+.b-content__card_suit_diamonds,
+.b-content__war_suit_diamonds{
+    background: url(../../images/diamonds.png) no-repeat;
+}
+.b-content__card_suit_spades,
+.b-content__war_suit_spades{
+    background: url(../../images/spades.png) no-repeat;
+}
+.b-content__card_suit_hearts,
+.b-content__war_suit_hearts{
+    background: url(../../images/hearts.png) no-repeat;
+}
+.b-content__card_heft_2,
+.b-content__war_heft_2{
+    background-position: 0 top;
+}
+.b-content__card_heft_3,
+.b-content__war_heft_3{
+    background-position: -120px top;
+}
+.b-content__card_heft_4,
+.b-content__war_heft_4{
+    background-position: -240px top;
+}
+.b-content__card_heft_5,
+.b-content__war_heft_5{
+    background-position: -360px top;
+}
+.b-content__card_heft_6,
+.b-content__war_heft_6{
+    background-position: -480px top;
+}
+.b-content__card_heft_7,
+.b-content__war_heft_7{
+    background-position: -600px top;
+}
+.b-content__card_heft_8,
+.b-content__war_heft_8{
+    background-position: -720px top;
+}
+.b-content__card_heft_9,
+.b-content__war_heft_9{
+    background-position: -840px top;
+}
+.b-content__card_heft_10,
+.b-content__war_heft_10{
+    background-position: -960px top;
+}
+.b-content__card_heft_11,
+.b-content__war_heft_11{
+    background-position: -1080px top;
+}
+.b-content__card_heft_12,
+.b-content__war_heft_12{
+    background-position: -1200px top;
+}
+.b-content__card_heft_13,
+.b-content__war_heft_13{
+    background-position: -1320px top;
+}
+.b-content__card_heft_14,
+.b-content__war_heft_14{
+    background-position: -1440px top;
+}

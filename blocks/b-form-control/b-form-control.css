@@ -1,0 +1,19 @@
+.b-form-control__label_from_text
+{
+    display: inline;
+    zoom:1;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px 15px 0 0;
+}
+.b-form-control__help_from_text
+{
+    display: inline;
+    zoom:1;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px 0 0 10px;
+}
+.b-form-control__input{
+    width: 30px;
+}

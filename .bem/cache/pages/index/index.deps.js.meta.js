@@ -1,0 +1,10 @@
+([
+    "../../../../libs/bem-bl/blocks-common/i-jquery/__observable/i-jquery__observable.deps.js",
+    "../../../../libs/bem-bl/blocks-common/i-bem/i-bem.deps.js",
+    "../../../../libs/bem-bl/blocks-common/i-bem/__html/i-bem__html.deps.js",
+    "../../../../libs/bem-bl/blocks-common/i-bem/__dom/i-bem__dom.deps.js",
+    "../../../../libs/bem-bl/blocks-desktop/i-ua/i-ua.deps.js",
+    "../../../../libs/bem-bl/blocks-desktop/b-page/b-page.deps.js",
+    "../../../../blocks/b-page/b-page.deps.js",
+    "../../../../blocks/b-content/b-content.deps.js"
+])

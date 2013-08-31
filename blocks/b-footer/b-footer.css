@@ -1,0 +1,22 @@
+.b-footer
+{
+    height: 20px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    position:relative;
+    z-index: 1;
+    width:920px;
+    background: #dddddd;
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee', endColorstr='#cccccc');
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#cccccc));
+        background: -webkit-linear-gradient(top, bottom, #eeeeee, #cccccc);
+        background: -moz-linear-gradient(top,  #eeeeee,  #cccccc);
+        background: -o-linear-gradient(top,  #eeeeee,  #cccccc);
+        background: -ms-linear-gradient(top,  #eeeeee,  #cccccc);
+        background: linear-gradient(top, #eeeeee, #cccccc);
+    box-shadow: inset 0 1px 7px rgba(0,0,0,0.3), 1px 1px 7px rgba(0,0,0,0.4);
+    -webkit-border-radius: 15px 15px 0 0;
+       -moz-border-radius: 15px 15px 0 0;
+         -o-border-radius: 15px 15px 0 0;
+            border-radius: 15px 15px 0 0;
+}

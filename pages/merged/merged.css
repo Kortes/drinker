@@ -1,0 +1,10 @@
+@import url(../../libs/clever-bem-lib/b-page/b-page.css);
+@import url(../../blocks/b-page/b-page.css);
+@import url(../../libs/clever-bem-lib/b-form-control/b-form-control.css);
+@import url(../../blocks/b-form-control/b-form-control.css);
+@import url(../../libs/clever-bem-lib/b-form-control/_type/b-form-control_type_text.css);
+@import url(../../libs/clever-bem-lib/i-inline/i-inline.css);
+@import url(../../libs/clever-bem-lib/i-btn/i-btn.css);
+@import url(../../blocks/b-content/b-content.css);
+@import url(../../blocks/b-footer/b-footer.css);
+@import url(../../libs/clever-bem-lib/b-scripts/b-scripts.css);

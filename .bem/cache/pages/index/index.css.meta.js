@@ -1,0 +1,12 @@
+([
+    "../../../../libs/clever-bem-lib/b-page/b-page.css",
+    "../../../../blocks/b-page/b-page.css",
+    "../../../../libs/clever-bem-lib/b-form-control/b-form-control.css",
+    "../../../../blocks/b-form-control/b-form-control.css",
+    "../../../../libs/clever-bem-lib/b-form-control/_type/b-form-control_type_text.css",
+    "../../../../libs/clever-bem-lib/i-inline/i-inline.css",
+    "../../../../libs/clever-bem-lib/i-btn/i-btn.css",
+    "../../../../blocks/b-content/b-content.css",
+    "../../../../blocks/b-footer/b-footer.css",
+    "../../../../libs/clever-bem-lib/b-scripts/b-scripts.css"
+])
